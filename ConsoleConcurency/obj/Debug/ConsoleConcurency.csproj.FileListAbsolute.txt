@@ -1,0 +1,13 @@
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\ConsoleConcurency.exe.config
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\ConsoleConcurency.exe
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\ConsoleConcurency.pdb
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\EntityFramework.dll
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\EntityFramework.SqlServer.dll
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\EntityFramework.xml
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\bin\Debug\EntityFramework.SqlServer.xml
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\obj\Debug\ConsoleConcurency.exe
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\obj\Debug\ConsoleConcurency.pdb
+c:\Users\hp\Documents\Visual Studio 2012\Projects\ConsoleConcurency\ConsoleConcurency\obj\Debug\ConsoleConcurency.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\ConsoleConcurency\ConsoleConcurency\bin\Debug\ConsoleConcurency.exe.config
+C:\Users\hp\Desktop\ConsoleConcurency\ConsoleConcurency\obj\Debug\ConsoleConcurency.exe
+C:\Users\hp\Desktop\ConsoleConcurency\ConsoleConcurency\obj\Debug\ConsoleConcurency.pdb

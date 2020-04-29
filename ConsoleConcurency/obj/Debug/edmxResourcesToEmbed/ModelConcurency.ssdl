@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="CONCURENSYModel.Store" Alias="Self" Provider="System.Data.SqlClient" ProviderManifestToken="2008" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns="http://schemas.microsoft.com/ado/2009/02/edm/ssdl">
+  <EntityContainer Name="CONCURENSYModelStoreContainer">
+    <EntitySet Name="Employe" EntityType="CONCURENSYModel.Store.Employe" store:Type="Tables" Schema="dbo" />
+  </EntityContainer>
+  <EntityType Name="Employe">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" Nullable="false" />
+    <Property Name="nom" Type="varchar" Nullable="false" MaxLength="20" />
+    <Property Name="salaire" Type="money" />
+  </EntityType>
+</Schema>
